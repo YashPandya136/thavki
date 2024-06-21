@@ -1,0 +1,14 @@
+{
+  "siteUrl": "https://www.hotelclarendon.com.au/",
+  "enableGoogleSearchEnvironment": true,
+  "siteMetaData": {
+    "banner": "images/logo.png",
+    "favicon": "/images/logo.png",
+    "siteLanguage": "en",
+    "siteLocal": "en_US",
+    "siteLogo": "images/logo.ico",
+    "siteName": "B. K. Silk Mils Pvt.ltd",
+    "twitter": "twitterHandle",
+    "creatorTwitterHandle": ""
+  }
+}
