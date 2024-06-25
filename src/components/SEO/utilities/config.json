@@ -2,11 +2,11 @@
   "siteUrl": "https://bkthavki.com/",
   "enableGoogleSearchEnvironment": true,
   "siteMetaData": {
-    "banner": "images/logo.png",
-    "favicon": "/images/logo.png",
+    "banner": "static/images/icon.png",
+    "favicon": "static/images/icon.png",
     "siteLanguage": "en",
     "siteLocal": "en_US",
-    "siteLogo": "images/logo.ico",
+    "siteLogo": "static/images/icon.png",
     "siteName": "B. K. Silk Mils Pvt.ltd",
     "twitter": "twitterHandle",
     "creatorTwitterHandle": ""
